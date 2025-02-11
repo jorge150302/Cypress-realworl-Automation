@@ -1,0 +1,23 @@
+{
+  "name": "cypress-realworld-automation",
+  "version": "1.0.0",
+  "description": "Cypress automation project",
+  "homepage": "https://github.com/jorge150302/Cypress-realworl-Automation#readme",
+  "bugs": {
+    "url": "https://github.com/jorge150302/Cypress-realworl-Automation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge150302/Cypress-realworl-Automation.git"
+  },
+  "license": "ISC",
+  "author": "Jorge Almánzar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.0.2"
+  }
+}
